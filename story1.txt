@@ -1,5 +1,7 @@
 Some random text: 6884
 
+A change really early in the file
+
 PP
 More random text
 More random text
@@ -16,9 +18,9 @@ More random text
 More random text
 More random text
 More random text
-More random text
-More random text
 Stuff later on also
+More random text
+More random text
 More random text
 More random text
 More random text
