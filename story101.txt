@@ -1,6 +1,6 @@
 Some random text: 6884
 
-A change really early in the file
+A change really really early in the file
 
 PP
 More random text
